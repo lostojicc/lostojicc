@@ -1,7 +1,4 @@
 ### Hi there 👋, I’m Luka
-#### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 A passionate software developer who loves the journey of growth in tech. Always curious and always learning.
 
 🚀 What I enjoy: 
