@@ -5,7 +5,7 @@ A passionate software developer who loves the journey of growth in tech. Always 
 - Engineering scalable and efficient applications
 - Crafting seamless user experiences
 - Exploring new tools, frameworks, and best practices
-- Turning ideas into functional solutionsct just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- Turning ideas into functional solutions
 
 Skills: C, C++, Java, C# | Spring Boot, ASP.NET | HTML, CSS, JavaScript | Bootstrap, Vue, Angular | PostgreSQL, Oracle SQL
 
