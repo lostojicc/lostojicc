@@ -7,7 +7,7 @@ A passionate software developer who loves the journey of growth in tech. Always 
 - Exploring new tools, frameworks, and best practices
 - Turning ideas into functional solutions
 
-Skills: C, C++, Java, C# | Spring Boot, ASP.NET | HTML, CSS, JavaScript | Bootstrap, Vue, Angular | PostgreSQL, Oracle SQL
+Skills: C, C++, Java, C# | OpenGL, Spring Boot, ASP.NET | HTML, CSS, JavaScript | Bootstrap, Vue, Angular | PostgreSQL, Oracle SQL
 
 - 🔭 I’m currently working on creating my résumé and GitHub portfolio. 
 
